@@ -1,0 +1,45 @@
+{
+  "name": "webstorm-new-dark-ui-meets-oldtale",
+  "displayName": "WebStorm New Dark UI Theme meets OldTale",
+  "version": "1.0.2",
+  "publisher": "briginas",
+  "description": "WebStorm New UI aesthetics with OldTale palette for VS Code",
+  "icon": "images/icon-128x128.png",
+  "galleryBanner": {
+    "color": "#141415",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "jetbrains",
+    "intellij",
+    "new dark",
+    "webstorm",
+    "oldtale"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebStorm New Dark meets OldTale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-new-dark-meets-oldtale.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briginas/webstorm-new-ui-meets-oldtale-theme/issues",
+    "email": "dev.briginas@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/briginas/webstorm-new-ui-meets-oldtale-theme"
+  }
+}
