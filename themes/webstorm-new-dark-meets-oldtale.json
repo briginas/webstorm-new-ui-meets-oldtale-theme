@@ -258,7 +258,7 @@
     "typeParameter": { "foreground": "#799f8a" },
     "type": { "foreground": "#cc9c86" },
     "interface": { "foreground": "#cc9c86" },
-    "class": { "foreground": "#009385" },
+    "class": { "foreground": "#cc9c86" },
     "property": { "foreground": "#c56584" },
     "method": { "foreground": "#8292c7" },
     "function": { "foreground": "#8292c7" },
