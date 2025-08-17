@@ -277,10 +277,7 @@
     },
     {
       "name": "Ternary Operator",
-      "scope": [
-        "keyword.operator.ternary.ts",
-        "keyword.operator.ternary.tsx"
-      ],
+      "scope": ["keyword.operator.ternary.ts", "keyword.operator.ternary.tsx"],
       "settings": { "foreground": "#aaa7b0" }
     },
     {
@@ -307,6 +304,14 @@
       "settings": { "foreground": "#aaa7b0" }
     },
     {
+      "name": "Definite Assignment Operator",
+      "scope": [
+        "keyword.operator.definiteassignment.ts",
+        "keyword.operator.definiteassignment.tsx"
+      ],
+      "settings": { "foreground": "#aaa7b0" }
+    },
+    {
       "name": "Assignment and Comparison Operators",
       "scope": [
         "keyword.operator.assignment",
@@ -319,7 +324,10 @@
     },
     {
       "name": "Type Annotation Operator",
-      "scope": ["keyword.operator.type.annotation.ts", "keyword.operator.type.annotation.tsx"],
+      "scope": [
+        "keyword.operator.type.annotation.ts",
+        "keyword.operator.type.annotation.tsx"
+      ],
       "settings": { "foreground": "#aaa7b0" }
     },
     {
@@ -354,41 +362,33 @@
     },
     {
       "name": "Classes & React Components (Tags)",
-      "scope": [
-        "entity.name.class",
-        "support.class",
-        "entity.name.tag"
-      ],
+      "scope": ["entity.name.class", "support.class", "entity.name.tag"],
       "settings": { "foreground": "#009385" }
     },
     {
       "name": "Types & Interfaces",
-      "scope": [
-        "entity.name.type",
-        "support.type",
-        "entity.name.interface"
-      ],
+      "scope": ["entity.name.type", "support.type", "entity.name.interface"],
       "settings": { "foreground": "#cc9c86" }
     },
     {
-        "name": "Primitive and Built-in Types",
-        "scope": [
-            "support.type.primitive.ts",
-            "support.type.builtin.ts",
-            "support.type.primitive.tsx",
-            "support.type.builtin.tsx"
-        ],
-        "settings": { "foreground": "#bf7c76" }
+      "name": "Primitive and Built-in Types",
+      "scope": [
+        "support.type.primitive.ts",
+        "support.type.builtin.ts",
+        "support.type.primitive.tsx",
+        "support.type.builtin.tsx"
+      ],
+      "settings": { "foreground": "#bf7c76" }
     },
     {
-        "name": "Enum name",
-        "scope": ["entity.name.type.enum"],
-        "settings": { "foreground": "#d59a82" }
+      "name": "Enum name",
+      "scope": ["entity.name.type.enum"],
+      "settings": { "foreground": "#d59a82" }
     },
     {
-        "name": "Enum member",
-        "scope": ["variable.other.enummember"],
-        "settings": { "foreground": "#f5938d" }
+      "name": "Enum member",
+      "scope": ["variable.other.enummember"],
+      "settings": { "foreground": "#f5938d" }
     },
     {
       "name": "Variables and Properties",
@@ -400,21 +400,25 @@
       "settings": { "foreground": "#aaa7b0" }
     },
     {
-        "name": "Exported Constants",
-        // Note: This scope is not always effective as it can be
-        // overridden by other scopes or semantic highlighting.
-        "scope": ["meta.export variable.other.constant"],
-        "settings": { "foreground": "#c56584" }
+      "name": "Exported Constants",
+      // Note: This scope is not always effective as it can be
+      // overridden by other scopes or semantic highlighting.
+      "scope": ["meta.export variable.other.constant"],
+      "settings": { "foreground": "#c56584" }
     },
     {
-        "name": "Properties",
-        "scope": ["variable.other.property", "variable.other.object.property", "support.type.property-name"],
-        "settings": { "foreground": "#c56584" }
+      "name": "Properties",
+      "scope": [
+        "variable.other.property",
+        "variable.other.object.property",
+        "support.type.property-name"
+      ],
+      "settings": { "foreground": "#c56584" }
     },
     {
-        "name": "Tag attributes",
-        "scope": ["entity.other.attribute-name"],
-        "settings": { "foreground": "#aaa7b0" }
+      "name": "Tag attributes",
+      "scope": ["entity.other.attribute-name"],
+      "settings": { "foreground": "#aaa7b0" }
     },
     {
       "name": "Punctuation",
