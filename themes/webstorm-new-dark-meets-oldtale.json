@@ -312,6 +312,14 @@
       "settings": { "foreground": "#aaa7b0" }
     },
     {
+      "name": "Relational Operator",
+      "scope": [
+        "keyword.operator.relational.ts",
+        "keyword.operator.relational.tsx"
+      ],
+      "settings": { "foreground": "#aaa7b0" }
+    },
+    {
       "name": "Assignment and Comparison Operators",
       "scope": [
         "keyword.operator.assignment",
