@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8
+
+- Updated token color for arithmetic operators.
+
 ## 1.0.7
 
 - Updated `editorCursor` and `sideBar` colors.
