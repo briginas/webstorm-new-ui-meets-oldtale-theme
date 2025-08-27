@@ -282,6 +282,14 @@
       "settings": { "foreground": "#aaa7b0" }
     },
     {
+      "name": "Arithmetic Operator",
+      "scope": [
+        "keyword.operator.arithmetic.ts",
+        "keyword.operator.arithmetic.tsx"
+      ],
+      "settings": { "foreground": "#aaa7b0" }
+    },
+    {
       "name": "Keywords",
       "scope": [
         "keyword",
