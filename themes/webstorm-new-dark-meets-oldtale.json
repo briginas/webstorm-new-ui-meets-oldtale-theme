@@ -363,6 +363,16 @@
       "settings": { "foreground": "#aaa7b0" }
     },
     {
+      "name": "Decrement Operator",
+      "scope": ["keyword.operator.decrement.ts"],
+      "settings": { "foreground": "#aaa7b0" }
+    },
+    {
+      "name": "Increment Operator",
+      "scope": ["keyword.operator.increment.ts"],
+      "settings": { "foreground": "#aaa7b0" }
+    },
+    {
       "name": "Strings",
       "scope": ["string", "punctuation.definition.string"],
       "settings": { "foreground": "#799f8a" }
