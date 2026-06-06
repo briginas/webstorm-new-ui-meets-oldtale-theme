@@ -2,7 +2,11 @@
 
 WebStorm OldTale Dark is a dark VS Code theme with WebStorm New UI chrome and OldTale-inspired editor colors. It is inspired by the [WebStorm New Dark UI](https://www.jetbrains.com/help/webstorm/new-ui.html) and [Old Tale](https://github.com/topazape/oldtale.nvim) themes.
 
+**Not affiliated with or endorsed by JetBrains.**
+
 If you love the WebStorm feel in VS Code, you might also like [eenaree/webstorm-new-ui-theme](https://github.com/eenaree/webstorm-new-ui-theme). It helped inspire this project.
+
+Substantial portions of the workbench color palette and editor token colors were adapted from upstream MIT-licensed projects. See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for copyright and license notices.
 
 ## Preview
 
