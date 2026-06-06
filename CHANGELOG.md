@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0
+
+- Expanded VS Code workbench color coverage.
+- Added terminal ANSI colors and modern editor/chat/notebook/testing tokens.
+- Improved contrast for buttons, badges, and status bar warning/error states.
+- Added semantic token colors for enums, decorators, macros, and related tokens.
+
 ## 1.0.8
 
 - Updated token color for arithmetic operators.
