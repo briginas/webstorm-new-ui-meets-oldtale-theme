@@ -10,26 +10,6 @@ If you love the WebStorm feel in VS Code, you might also like [eenaree/webstorm-
 
 ### WebStorm OldTale Dark
 
-## Color Palette
-
-| Role | Color | Hex |
-| --- | --- | --- |
-| Editor background | Deep Ink | ![#141415](./images/palette/141415.png) |
-| Workbench base | Jet Panel | ![#1e1f22](./images/palette/1e1f22.png) |
-| Raised surface | Graphite | ![#2b2d30](./images/palette/2b2d30.png) |
-| Border and guides | Ash Line | ![#42454a](./images/palette/42454a.png) |
-| Primary text | Soft White | ![#dfe1e5](./images/palette/dfe1e5.png) |
-| Muted text | Quiet Gray | ![#9ea0a8](./images/palette/9ea0a8.png) |
-| Action blue | WebStorm Blue | ![#3574f0](./images/palette/3574f0.png) |
-| Info blue | Clear Sky | ![#6a9bfa](./images/palette/6a9bfa.png) |
-| Success green | OldTale Sage | ![#799f8a](./images/palette/799f8a.png) |
-| Warning gold | Muted Gold | ![#c29e49](./images/palette/c29e49.png) |
-| Error red | Signal Rose | ![#d64d5b](./images/palette/d64d5b.png) |
-| String peach | Warm Peach | ![#cc9c86](./images/palette/cc9c86.png) |
-| Keyword rose | Dusty Rose | ![#c56584](./images/palette/c56584.png) |
-| Type violet | Faded Violet | ![#9a8dbf](./images/palette/9a8dbf.png) |
-| Symbol blue | Slate Blue | ![#8292c7](./images/palette/8292c7.png) |
-
 ## Installation
 
 1. Open **Extensions** in VS Code's sidebar. (or from Command Palette (**Ctrl+Shift+P**), run `View: Show Extensions`)
