@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2
+
+- Added GitHub Releases workflow for VSIX distribution.
+- Documented manual installation from GitHub Releases.
+
 ## 1.1.1
 
 - Updated repository metadata.
