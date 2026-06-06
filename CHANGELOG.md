@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Updated repository metadata.
+
 ## 1.1.0
 
 - Expanded VS Code workbench color coverage.
