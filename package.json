@@ -1,9 +1,9 @@
 {
   "name": "webstorm-new-dark-ui-meets-oldtale",
-  "displayName": "WebStorm New Dark UI Theme meets OldTale",
+  "displayName": "WebStorm OldTale Dark",
   "version": "1.1.0",
   "publisher": "briginas",
-  "description": "WebStorm New UI aesthetics with OldTale palette for VS Code",
+  "description": "Dark VS Code theme with WebStorm New UI chrome and OldTale-inspired editor colors.",
   "icon": "images/icon-128x128.png",
   "galleryBanner": {
     "color": "#141415",
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "WebStorm New Dark meets OldTale",
+        "label": "WebStorm OldTale Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/webstorm-new-dark-meets-oldtale.json"
+        "path": "./themes/oldtale-dark.json"
       }
     ]
   },

@@ -6,6 +6,7 @@
 - Added terminal ANSI colors and modern editor/chat/notebook/testing tokens.
 - Improved contrast for buttons, badges, and status bar warning/error states.
 - Added semantic token colors for enums, decorators, macros, and related tokens.
+- Updated the extension display name, README, and preview image.
 
 ## 1.0.8
 
