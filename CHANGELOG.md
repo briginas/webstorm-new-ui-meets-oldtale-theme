@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.3
+
+- Removed error and warning diagnostic background highlights; squiggle underlines are sufficient.
+
 ## 1.1.2
 
 - Added GitHub Releases workflow for VSIX distribution.
