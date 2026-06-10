@@ -10,6 +10,7 @@
     "theme": "dark"
   },
   "engines": {
+    "node": "22.22.3",
     "vscode": "^1.81.0"
   },
   "categories": [
