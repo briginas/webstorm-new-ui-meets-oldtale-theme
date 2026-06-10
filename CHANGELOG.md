@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.4
+
+- Rebalanced terminal ANSI blue and cyan colors for a calmer, more consistent console palette.
+
 ## 1.1.3
 
 - Removed error and warning diagnostic background highlights; squiggle underlines are sufficient.
